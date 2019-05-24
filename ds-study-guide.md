@@ -22,7 +22,7 @@
 
 ### Probability And Statistics
 A common question you might get at FAANG companies and other tech companies alike is the occasional probability or statistics question. The questions won’t necessarily require complex math. However, if you haven’t thought about independent and dependent probabilities in while. It is good to review setting up the basic formulas.
-![]()https://i0.wp.com/cdn-images-1.medium.com/max/1600/1*dNwL4l352QVlWceC4KeJ6Q.jpeg?w=893&ssl=1
+![](https://i0.wp.com/cdn-images-1.medium.com/max/1600/1*dNwL4l352QVlWceC4KeJ6Q.jpeg?w=893&ssl=1)
 
 - [Dependent probability introduction](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/v/introduction-to-dependent-probability?modal=1)
 - [Independent & dependent probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/v/introduction-to-dependent-probability?modal=1)
@@ -34,3 +34,5 @@ A common question you might get at FAANG companies and other tech companies alik
 - Probability & Statistics — Set 2
 - Independent Probability
 - Dependent Probability
+
+[Resources](https://www.coriers.com/the-data-science-interview-study-guide/)
