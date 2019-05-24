@@ -45,5 +45,19 @@ Most of these questions are either similar to the ones we have been asked or tak
 4. You’re about to get on a plane to Seattle. You want to know
 5. How many ways can you split 12 people into 3 teams of 4?
 
+### Statistics Pre-Quizzes
+1. Data Science Probability Statistics 14
+
+### Statistics Concepts
+Statistics is a broad concept so don’t get too bogged down in the details of each of these videos. Instead, just make sure you can explain each of these concepts at the surface level.
+
+1. Bias Variance Trade Off
+2. Confusion Matrix
+3. ROC curve
+4. Normal Distribution
+5. P-Value
+6. Pearson Spearman
+
+![](https://youtu.be/ZkjP5RJLQF4)
 
 [Resources](https://www.coriers.com/the-data-science-interview-study-guide/)
