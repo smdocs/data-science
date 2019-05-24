@@ -30,9 +30,9 @@ A common question you might get at FAANG companies and other tech companies alik
 - [Conditional Prob Article](https://www.khanacademy.org/math/math2/math2-prob/math2-conditional-prob/a/conditional-probability-using-two-way-tables?modal=1)
 
 ### Probability Quiz
-- Probability & Statistics — Set 6
-- Probability & Statistics — Set 2
-- Independent Probability
-- Dependent Probability
+- [Probability & Statistics — Set 6](http://interview-questions-247.appspot.com/data-science-probability-1)
+- [Probability & Statistics — Set 2](http://interview-questions-247.appspot.com/data-science-probability-2)
+- [Independent Probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent/e/independent_probability?modal=1)
+- [Dependent Probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/e/dependent_probability?modal=1)
 
 [Resources](https://www.coriers.com/the-data-science-interview-study-guide/)
