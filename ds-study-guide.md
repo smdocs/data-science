@@ -35,4 +35,15 @@ A common question you might get at FAANG companies and other tech companies alik
 - [Independent Probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent/e/independent_probability?modal=1)
 - [Dependent Probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/e/dependent_probability?modal=1)
 
+### Probability Interview Questions
+
+Most of these questions are either similar to the ones we have been asked or taken directly from glassdoor.com.
+
+1. A die is rolled twice. What is the probability of showing a 3 on the first roll and an odd number on the second roll?
+2. In any 15-minute interval, there is a 20% probability that you will see at least one shooting star. What is the proba­bility that you see at least one shooting star in the period of an hour?
+3. Alice has 2 kids and one of them is a girl. What is the probability that the other child is also a girl? You can assume that there are an equal number of males and females in the world.
+4. You’re about to get on a plane to Seattle. You want to know
+5. How many ways can you split 12 people into 3 teams of 4?
+
+
 [Resources](https://www.coriers.com/the-data-science-interview-study-guide/)
